@@ -1,0 +1,11 @@
+﻿body {
+
+}
+#photodiv {
+    margin:auto;
+}
+.Content{
+    position:center;
+    margin:auto;
+    background-color:lightgray;
+    }
